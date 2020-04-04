@@ -1,0 +1,14 @@
+{
+  "local": {
+    "port": 65301
+  },
+  "remote": {
+    "ip": "104.36.68.158",
+    "port": 39645
+  },
+  "cryption": {
+    "algorithm": "aes-128-gcm",
+    "key": "15+^941272juakng",
+    "iv": "15949412ggjuakng"
+  }
+}
